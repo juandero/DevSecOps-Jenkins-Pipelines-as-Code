@@ -36,18 +36,18 @@ All the implementations on this repository are entirely based on the exclusively
 
 ## Contributing
 
-Please feel free to look through the open issues, make a fork and submit a PR for improvements. All the suggestions, updates, fixes, new features and capabilities are appreciated.
+Please feel free to look through the open [issues](https://github.com/juandero/DevSecOps-Jenkins-Pipelines-as-Code/issues), make a fork and submit a PR for improvements. All the suggestions, updates, fixes, new features and capabilities are appreciated.
 
-Of course, all contributors obtain copyrights on the project.
+Of course, all contributors obtain copyrights on this project and will be listed here!
 
 ## Issues and Support
 
-If you have suggestions, questions or issues running some codes, feel free to open an issue to contact and receive help.
+If you have suggestions, questions or issues running some of the codes, feel free to open an [issue](https://github.com/juandero/DevSecOps-Jenkins-Pipelines-as-Code/issues) to contact and receive help.
 
 At this moment no other channels (like e-mail or social media) are being used for support purposes. So please, do not try to contact me through other ways for this matter.
 
 ## Licence
 
-- Code and documentation copyright (c) 2023-Present Juan P. Montero (A.k.a. [juandero](https://github.com/juandero)).
+- Code and documentation copyright (c) 2023-Present Juan P. Montero (A.k.a. [juandero](https://github.com/juandero)) and [Contributors](https://github.com/juandero/DevSecOps-Jenkins-Pipelines-as-Code/graphs/contributors).
 - Source code licensed under [MIT License](https://github.com/juandero/DevSecOps-Jenkins-Pipelines/blob/main/LICENSE).
 - Documentation licensed under [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
