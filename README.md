@@ -2,7 +2,7 @@
 
 ## Description
 
-A repository that was born as a project to collect a wide variety of practice DevSecOps implementions via Jenkins Pipelines and Configurations as Code.
+This repository was born as a project to collect a wide variety of practice DevSecOps implementions via Jenkins Pipelines and Configurations as Code.
 
 The main objective is to help anyone who needs to implement this kind of practices on their projects, taking these resources as basis for it.
 
@@ -38,7 +38,7 @@ All the implementations on this repository are entirely based on the exclusively
 
 Please feel free to look through the open issues, make a fork and submit a PR for improvements. All the suggestions, updates, fixes, new features and capabilities are appreciated.
 
-Obviously, all contributors obtain copyrights on the project.
+Of course, all contributors obtain copyrights on the project.
 
 ## Issues and Support
 
